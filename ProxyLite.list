@@ -25,3 +25,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 国外网站
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
